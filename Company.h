@@ -33,7 +33,7 @@ struct Company {
     void inCreaseSalaryByPhoneNumber(string phone,int currNum);
     void deCreaseSalaryByPhoneNumber(string phone,int currNum);
     void changeOfficeBoy(OfficeBoy newOfficeBoy);
-
+    void printOfficeBoyInfo();
 };
 
 #endif

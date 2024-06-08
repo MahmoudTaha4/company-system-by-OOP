@@ -26,6 +26,7 @@ int main(){
     // officeBoy init
     OfficeBoy omar("omar", 17, "006","pyramidsStreet");
 
+    doubleTaha.changeOfficeBoy(omar);
 
     int option;
     while(true){
@@ -142,7 +143,7 @@ int main(){
         }
 
         else if (option == 14){
-            omar.printOfficeBoyInfo();
+            doubleTaha.printOfficeBoyInfo();
         }
 
         else if (option == 15){

@@ -149,3 +149,7 @@ void Company::deCreaseSalaryByPhoneNumber(string phone,int currNum){
 void Company::changeOfficeBoy(OfficeBoy newOfficeBoy){
     this->officeBoy = newOfficeBoy;
 }
+
+void Company::printOfficeBoyInfo() {
+    this->officeBoy.printOfficeBoyInfo();
+}
