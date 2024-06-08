@@ -1,0 +1,17 @@
+# ninja log v6
+72	4219	7395471565198904	CMakeFiles/CompanySystemByOOP.dir/main.cpp.obj	97efa4c9e17a0c0d
+31	2638	7395474503675982	CMakeFiles/CompanySystemByOOP.dir/Company.cpp.obj	b6f840d7172f934a
+170	4180	7395471566175799	CMakeFiles/CompanySystemByOOP.dir/Employee.cpp.obj	65231b2654ecef72
+2639	2825	7395474529753033	CompanySystemByOOP.exe	ad6ba74234f65b3
+28	2903	7395501746109310	CMakeFiles/CompanySystemByOOP.dir/officeBoy.cpp.obj	ab717cda511b968a
+12	2909	7395501745962866	CMakeFiles/CompanySystemByOOP.dir/main.cpp.obj	97efa4c9e17a0c0d
+22	3008	7395501746060496	CMakeFiles/CompanySystemByOOP.dir/Company.cpp.obj	b6f840d7172f934a
+3008	3335	7395501775912289	CompanySystemByOOP.exe	fac97c886e347bfc
+12	2849	7395511918310931	CMakeFiles/CompanySystemByOOP.dir/main.cpp.obj	97efa4c9e17a0c0d
+20	2890	7395511918389043	CMakeFiles/CompanySystemByOOP.dir/Company.cpp.obj	b6f840d7172f934a
+2890	3071	7395511947091976	CompanySystemByOOP.exe	fac97c886e347bfc
+12	2563	7395513855460957	CMakeFiles/CompanySystemByOOP.dir/Company.cpp.obj	b6f840d7172f934a
+2564	2749	7395513880971438	CompanySystemByOOP.exe	fac97c886e347bfc
+12	3051	7395554864722596	CMakeFiles/CompanySystemByOOP.dir/main.cpp.obj	97efa4c9e17a0c0d
+22	3137	7395554864820241	CMakeFiles/CompanySystemByOOP.dir/Company.cpp.obj	b6f840d7172f934a
+3137	3333	7395554895963900	CompanySystemByOOP.exe	fac97c886e347bfc
